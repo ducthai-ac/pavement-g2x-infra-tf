@@ -81,3 +81,4 @@ Infrastructure as Code cho dự án G2X Wiki sử dụng Terraform trên AWS Syd
 - EBS snapshots tự động hàng ngày lúc 2:00 AM
 - Retention: 7 ngày
 - Backup vault: `g2x-wiki-prod-backup-vault`# pavement-g2x-infra-tf
+# pavement-g2x-infra-tf
