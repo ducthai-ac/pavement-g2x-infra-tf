@@ -143,8 +143,6 @@ tail -f /var/www/pavement/nginx/logs/g2x-wiki-error.log
 | `environment` | Environment | prod |
 | `instance_type` | EC2 instance type | t3.medium |
 | `ami_id` | Ubuntu AMI ID | ami-0279a86684f669718 |
-| `domain_name` | Frontend domain | pavement-beta.appscyclone.com |
-| `api_domain_name` | API domain | pavement-beta-api.appscyclone.com |
 | `backup_retention_days` | Backup retention | 7 |
 
 ### Docker Images
